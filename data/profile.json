@@ -1,0 +1,25 @@
+{
+  "name": "Rusdi Bin Hamzah",
+  "position": "Guru",
+  "school": "SMK Langkawi Pulau Tuba",
+  "retirement": "2027-02-01T00:00:00",
+  "quote": "Setiap perjalanan yang indah pasti mempunyai penamat yang bermakna.",
+  "timeline": [
+    {
+      "year": "2000",
+      "title": "Memulakan Perkhidmatan"
+    },
+    {
+      "year": "2005",
+      "title": "Berkhidmat di beberapa buah sekolah"
+    },
+    {
+      "year": "2026",
+      "title": "SMK Langkawi Pulau Tuba"
+    },
+    {
+      "year": "2027",
+      "title": "Persaraan"
+    }
+  ]
+}
